@@ -1,0 +1,7 @@
+td.excerpt {
+  white-space: pre-wrap;
+  max-width: 200px;
+}
+td {
+  vertical-align: middle;
+}
